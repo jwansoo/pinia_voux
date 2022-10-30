@@ -1,0 +1,84 @@
+{
+  "events": [
+    {
+      "id": 123,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "Find your new feline friend at this event.",
+      "location": "Meow Town",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 456,
+      "category": "food",
+      "title": "Community Gardening",
+      "description": "Join us as we tend to the community edible plants.",
+      "location": "Flora City",
+      "date": "March 14, 2022",
+      "time": "10:00",
+      "organizer": "Fern Pollin"
+    },
+    {
+      "id": 789,
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "organizer": "Carey Wales"
+    },
+    {
+      "id": "uuidv4()",
+      "category": "sustainability",
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "organizer": "this.userStore.user"
+    },
+    {
+      "id": "6d3e2e49-4cdc-49b5-849e-dd4cfb12fc0d",
+      "category": "sustainability",
+      "title": "ss",
+      "description": "ss",
+      "location": "ss",
+      "date": "ss",
+      "time": "ss",
+      "organizer": "wansoo jang"
+    },
+    {
+      "id": "a53a65a4-d010-4488-8cfa-628b65d8f4c8",
+      "category": "nature",
+      "title": "aa",
+      "description": "aa",
+      "location": "ss",
+      "date": "ss",
+      "time": "ss",
+      "organizer": "wansoo jang"
+    },
+    {
+      "id": "71dc48a2-2404-40ed-af05-ceb524c4e075",
+      "category": "animal welfare",
+      "title": "hh",
+      "description": "hh",
+      "location": "hh",
+      "date": "hh",
+      "time": "hh",
+      "organizer": "wansoo jang"
+    },
+    {
+      "id": "46373e2e-7b93-4023-bdfc-fdcc979470e9",
+      "category": "animal welfare",
+      "title": "1",
+      "description": "a",
+      "location": "a",
+      "date": "a",
+      "time": "a",
+      "organizer": "wansoo jang"
+    }
+  ]
+}
